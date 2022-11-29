@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uiaciel
-- 👀 I’m interested in Web Programming, Design
+- 👀 I’m interested in Web Programming, Server, Linux and Design
 - 🌱 I’m currently learning Laravel, Vue, Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
